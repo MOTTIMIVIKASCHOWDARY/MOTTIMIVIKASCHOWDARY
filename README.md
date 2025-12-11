@@ -22,6 +22,8 @@
   <a href="https://leetcode.com/u/MOTTIMIVIKAS/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
+  <a href="https://www.instagram.com/vicky._.chowdary?igsh=MWZkM2JuYzZsMWpxbQ==">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 </p>
-
 
