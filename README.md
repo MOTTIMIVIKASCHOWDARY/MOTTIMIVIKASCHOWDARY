@@ -13,9 +13,6 @@
   <a href="https://www.linkedin.com/in/vikas-chowdary-1074ba300">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/vicky._.chowdary?igsh=MWZkM2JuYzZsMWpxbQ==">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
   <a href="mailto:vikaschowdary.coder@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
@@ -24,6 +21,9 @@
   </a>
   <a href="https://leetcode.com/u/MOTTIMIVIKAS/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+   <a href="https://www.instagram.com/vicky._.chowdary?igsh=MWZkM2JuYzZsMWpxbQ==">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
@@ -37,7 +37,7 @@
           “The techniques of artificial intelligence are to the mind what bureaucracy is to human social interaction.”
         </p>
         <p style="color:#f472b6; font-size:16px; text-align:right; margin:0;">
-          – Terry Winograd
+                                                        – Terry Winograd
         </p>
       </td>
     </tr>
