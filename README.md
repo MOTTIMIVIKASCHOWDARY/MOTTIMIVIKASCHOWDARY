@@ -1,4 +1,4 @@
- # Hey there 👋, I'm Vicky
+ # Hey there 👋, I'm  VICKY
 
 I am a B.Tech student from India learning Python, data science and full‑stack development.
 
