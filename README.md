@@ -34,7 +34,7 @@
     <tr>
       <td style="background:#050816; border-radius:8px; padding:25px 35px; border:1px solid #1f2933; max-width:750px;">
         <p style="color:#5ee7ff; font-size:18px; font-style:italic; margin:0 0 10px 0;">
-          “Loding.”
+          “Loading.”
         </p>
         <p style="color:#f472b6; font-size:16px; text-align:right; margin:0;">
                                                              – vicky
