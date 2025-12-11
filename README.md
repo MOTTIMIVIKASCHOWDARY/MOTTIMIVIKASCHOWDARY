@@ -1,16 +1,16 @@
-## Hi there 👋
+ # Hey there 👋, I'm Vicky
 
-<!--
-**MOTTIMIVIKASCHOWDARY/MOTTIMIVIKASCHOWDARY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a B.Tech student from India learning Python, data science and full‑stack development.
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- Python, R, SQL  
+- HTML, CSS, JavaScript  
+- Data visualization (pandas, Matplotlib, Seaborn)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+![Vicky's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+## 🚀 Currently Learning
+- Data structures and algorithms  
+- AWS Cloud and DevOps basics  
+
