@@ -37,7 +37,7 @@
           “The techniques of artificial intelligence are to the mind what bureaucracy is to human social interaction.”
         </p>
         <p style="color:#f472b6; font-size:16px; text-align:right; margin:0;">
-                                                        – Terry Winograd
+                                                             – Terry Winograd
         </p>
       </td>
     </tr>
