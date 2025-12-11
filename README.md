@@ -9,7 +9,6 @@
 
 ---
 
-<!-- Social links row -->
 <p align="center">
   <a href="https://www.linkedin.com/in/vikas-chowdary-1074ba300">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -31,10 +30,18 @@
 <br />
 
 <!-- Quote card -->
-<p align="center">
-  <img
-    src="https://github-readme-quotes.herokuapp.com/quote?theme=radical&animation=grow_out_in&quote=The+future+belongs+to+those+who+learn%2C+build%2C+and+never+stop+experimenting.&author=Mottimi+Vikas+Chowdary"
-    alt="Inspiring quote"
-  />
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td style="background:#050816; border-radius:8px; padding:25px 35px; border:1px solid #1f2933; max-width:750px;">
+        <p style="color:#5ee7ff; font-size:18px; font-style:italic; margin:0 0 10px 0;">
+          “The future belongs to those who learn, build, and never stop experimenting.”
+        </p>
+        <p style="color:#f472b6; font-size:16px; text-align:right; margin:0;">
+          – Mottimi Vikas Chowdary
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
 
