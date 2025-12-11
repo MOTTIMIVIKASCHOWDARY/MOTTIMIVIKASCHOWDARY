@@ -1,96 +1,124 @@
- <!-- Top Title -->
-<h1 align="center">Hey there 👋, I'm Vikas chowdary</h1>
+ # README for your GitHub Profile
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=900&color=F97316&center=true&vCenter=true&width=500&lines=Artificial+Intelligence+%26+Data+Science+Enthusiast;Computer+Science+Undergraduate;Always+learning+something+new" alt="Typing SVG" />
-</p>
+> Copy this entire file into a repository named **`<MOTTIMIVIKASCHOWDARY>/<MOTTIMIVIKASCHOWDARY>`** on GitHub as `README.md`. GitHub will render it as your profile README.
 
 ---
 
+```md
+<!-- Replace ALL occurrences of MOTTIMIVIKASCHOWDARY and links with your info -->
+
+<!-- Header -->
+<h1 align="center">Hey there 👋, I'm <b>Vikas Chowdary M</b></h1>
+<p align="center">Full-Stack Developer • AI & Data Science student</p>
+
+<!-- Social buttons -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/vikas-chowdary-1074ba300">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://linkedin.com/in/vikas-chowdary-1074ba300">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/your_instagram_here">
+    <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="mailto:vikaschowdary.coder@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/MOTTIMIVIKASCHOWDARY">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/u/MOTTIMIVIKAS/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  <a href="https://discord.com/users/your_discord_id_here">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
 </p>
 
 ---
 
-## 🧠 About Me
+> "I never in my wildest dreams would have predicted the evolution of the Internet..."  
+> — *L. Peter Deutsch*
 
-> Aspiring Artificial Intelligence and Data Science professional with a strong foundation in programming, data structures, statistics and machine learning.
+---
 
-- 🎓 B.Tech CSE undergraduate at SIMATS University, Chennai (CPI: 8.91).  
-- 📊 Love turning data into insights and building intelligent systems.  
-- 🧮 Comfortable with Python, SQL, R (beginner) and core CS concepts.  
-- ☁️ Exploring databases, cloud and real‑world AI/ML applications.  
-- 🚀 Always looking for challenging projects and opportunities to grow.  
+## 👋 About Me
+
+I'm a self-taught full-stack developer passionate about building scalable web apps and exploring AI/ML. I enjoy creating elegant solutions with TypeScript, Node.js, and modern frameworks.
+
+- 🌱 Currently learning: **Kubernetes**, **Terraform**, **AWS**, **Cloudflare**
+- 👯 Looking to collaborate on open-source projects
+- ⚡ Fun: anime enthusiast and tech video consumer
 
 ---
 
 ## 🛠️ Technology Arsenal
 
-### Languages & Core
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
-</p>
+### Core
 
-### Databases
-<p>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/IBM%20DB2-0F62FE?style=for-the-badge&logo=ibm&logoColor=white" />
-</p>
+<div align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+</div>
 
-### Tools & Concepts
-<p>
-  <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-0A66C2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/OOP%20Concepts-512BD4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Visualization%20&%20Analytics-22C55E?style=for-the-badge" />
+### Databases & Cloud
+
+<div align="center">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/Postgres-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MOTTIMIVIKASCHOWDARY&show_icons=true&theme=dark&hide_border=true" alt="GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MOTTIMIVIKASCHOWDARY&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
-## 📜 Certifications & Activities
-
-- 🏅 Oracle Certified SQL Specialist (1Z0‑914).  
-- 🎓 Introduction to IoT – NPTEL IIT Madras.  
-- 🎓 TCS iON Career Edge – Young Professional.  
-- 🎯 Led and coordinated **Symmetron'24** technical event at SIMATS.  
-- 🥇 Won Technical Quiz & Crossword Challenge at SRMIST among 250+ participants.  
-- 🤖 Participated in visualization workshop and NSIC Chennai visit on robotics & smart manufacturing.  
-
----
-
-## 📊 GitHub Overview
+## 🔭 What I'm Currently Learning
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MOTTIMIVIKASCHOWDARY&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=MOTTIMIVIKASCHOWDARY&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MOTTIMIVIKASCHOWDARY&layout=compact&theme=tokyonight" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="K8s"/>
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare"/>
 </p>
 
 ---
 
-## 🚀 What I'm Focusing On
+## 🧾 Popular Repositories
 
-- Strengthening DSA for coding contests and placements.  
-- Building AI / ML and data‑driven projects with Python & SQL.  
-- Improving problem‑solving skills on LeetCode and other platforms.  
+- [Meheer17](https://github.com/MOTTIMIVIKASCHOWDARY/Meheer17) - My README
+- [De-Trade](https://github.com/MOTTIMIVIKASCHOWDARY/de-trade) - A trading demo
+- [NPM-Learn](https://github.com/MOTTIMIVIKASCHOWDARY/npm-learn) - Learning project
+
+---
+
+## 📫 Connect with me
+
+- Website: `https://your-website.example`
+- Portfolio: `https://your-portfolio.example`
+
+---
+
+<!-- Footer: profile views (optional) -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MOTTIMIVIKASCHOWDARY&style=flat-square" alt="Profile views" />
+</p>
+
+```
+
+---
+
+### How to use
+
+1. Create a **new repository** on GitHub whose name is exactly your username (for example, `Meheer17`).
+2. Paste the contents of the code block above into the repository's `README.md` and commit.
+3. Replace every `MOTTIMIVIKASCHOWDARY`, `YOUR_NAME`, and the placeholder links with your real info.
+4. Wait a minute — your profile README will show up on your GitHub profile page.
+
+If you want, I can customize the README with your real name, links, and exact tech icons. Tell me what to replace and I'll update it.
 
