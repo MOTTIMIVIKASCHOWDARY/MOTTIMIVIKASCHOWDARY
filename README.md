@@ -1,8 +1,8 @@
-  <h1 align="center">Hey there 👋, I'm Vikas</h1>
+ <h1 align="center">Hey there 👋, I'm Vikas</h1>
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=900&color=F97316&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+%26+Data+Science+Enthusiast;Always+learning+something+new"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=900&color=F97316&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+%26+Data+Science+Enthusiast;Cloud+Architecture+Enthusiast;Problem+Solver;Always+learning+something+new"
     alt="Typing SVG"
   />
 </p>
