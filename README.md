@@ -1,12 +1,5 @@
  <h1 align="center">Hey there 👋, I'm Vikas</h1>
 
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=900&color=F97316&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+%26+Data+Science+Enthusiast;Problem+Solver;Cloud+Architecture+Enthusiast;Vibe+Coding+Specialist;4x+and+Crypto+Trader;Always+learning+something+new"
-    alt="Typing SVG"
-  />
-</p>
-
 ---
 
 <p align="center">
@@ -29,16 +22,15 @@
 
 <br />
 
-<!-- Quote card -->
 <div align="center">
   <table>
     <tr>
-      <td style="background:#050816; border-radius:8px; padding:25px 35px; border:1px solid #1f2933; max-width:750px;">
+      <td style="background:#050816; border-radius:8px; padding:25px 35px; border:1px solid:#1f2933; max-width:750px;">
         <p style="color:#5ee7ff; font-size:18px; font-style:italic; margin:0 0 10px 0;">
-          “The future belongs to those who learn, build, and never stop experimenting.”
+          “The techniques of artificial intelligence are to the mind what bureaucracy is to human social interaction.”
         </p>
         <p style="color:#f472b6; font-size:16px; text-align:right; margin:0;">
-          – Mottimi Vikas Chowdary
+          – Terry Winograd
         </p>
       </td>
     </tr>
