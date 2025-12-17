@@ -1,4 +1,4 @@
- <h1 align="center">Hey there 👋, I'm Vikas</h1>
+ <h1 align="center">Hey there 👋, I'm Vikas Chowdary </h1>
 
 <p align="center">
   <img
@@ -22,25 +22,23 @@
   <a href="https://leetcode.com/u/MOTTIMIVIKAS/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
-   <a href="https://www.instagram.com/vicky._.chowdary?igsh=MWZkM2JuYzZsMWpxbQ==">
+  <a href="https://www.instagram.com/vicky._.chowdary?igsh=MWZkM2JuYzZsMWpxbQ==">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
 <br />
 
-<div align="center">
-  <table>
-    <tr>
-      <td style="background:#050816; border-radius:8px; padding:25px 35px; border:1px solid #1f2933; max-width:750px;">
-        <p style="color:#5ee7ff; font-size:18px; font-style:italic; margin:0 0 10px 0;">
-          “Loading.”
-        </p>
-        <p style="color:#f472b6; font-size:16px; text-align:right; margin:0;">
-                                                             – vicky
-        </p>
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center" style="background:linear-gradient(90deg,#f97316,#eab308,#22c55e,#06b6d4,#6366f1,#a855f7,#ec4899);
+                         -webkit-background-clip:text;
+                         color:transparent;
+                         font-size:18px;
+                         font-weight:600;">
+  I DON’T JUST WRITE CODE; I DESIGN HOW DATA THINKS.
+</p>
+
+<p align="center" style="color:#f472b6; font-size:16px; font-weight:500; margin-top:-8px;">
+  VICKY
+</p>
+
 
