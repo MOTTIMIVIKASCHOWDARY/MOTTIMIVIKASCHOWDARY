@@ -1,5 +1,4 @@
  <h1 align="center">Hey there 👋, I'm Vikas Chowdary </h1>
-
 <p align="center">
   <img
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=900&color=F97316&center=true&vCenter=true&width=900&lines=ARTIFICIAL+INTELLIGENCE+%26+DATA+SCIENCE+ENTHUSIAST;PROBLEM+SOLVER;CLOUD+ARCHITECTURE+ENTHUSIAST;VIBE+CODING+SPECIALIST;4X+AND+CRYPTO+TRADER;ALWAYS+LEARNING+SOMETHING+NEW"
@@ -40,5 +39,20 @@
 <p align="center" style="color:#f472b6; font-size:16px; font-weight:500; margin-top:-8px;">
   VICKY
 </p>
+
+---
+
+## 🧠 About Me 
+
+👨‍🎓 I'm a B.Tech student passionate about Artificial Intelligence 🤖, Data Science 📊, Trading 📈, and Cyber Security 🔒. I love using cutting edge tech 💻 to solve real world problems 🌍 through hands on projects 🛠️. Curious by nature 🔍 and committed to continuous learning 📚, I keep building new skills ⚡ and creating innovative solutions 💡 while collaborating on impactful, future focused tech projects 🚀 ⚜️.
+
+
+
+- 🤖 Currently exploring AI/ML, deep learning and intelligent systems  
+- ☁️ Learning cloud computing and architecture for scalable applications  
+- 📊 Practicing data analysis, visualization and model building on real datasets  
+- 🧠 Sharpening problem‑solving through DSA, LeetCode and coding contests  
+- 🛡️ Building awareness of cyber security, secure coding and digital safety  
+- 🤝 Open to collaborating on innovative, tech‑driven projects and hackathons  
 
 
