@@ -65,6 +65,7 @@ VICKY
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" title="R" alt="R" width="80" height="80"/>&nbsp;
 </p>
 </details>
+
 <details open>
 <summary><b>Databases & Storage</b></summary>
 <br>
@@ -74,6 +75,7 @@ VICKY
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="80" height="80"/>&nbsp;
 </p>
 </details>
+
 <!-- Cloud & DevOps -->
 <details open>
 <summary><b>Cloud & DevOps</b></summary>
@@ -86,6 +88,7 @@ VICKY
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" title="Firebase" alt="Firebase" width="80" height="80"/>&nbsp;
 </p>
 </details>
+
 <!-- Frontend & Design -->
 <details open>
 <summary><b>Frontend & Design</b></summary>
@@ -96,6 +99,7 @@ VICKY
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React Native" alt="React Native" width="80" height="80"/>&nbsp;
 </p>
 </details>
+
 <!-- Languages & OS -->
 <details open>
 <summary> OS</b></summary>
@@ -107,6 +111,7 @@ VICKY
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" title="Kali Linux" alt="Kali Linux" width="80" height="80"/>&nbsp;
 </p>
 </details>
+
 <!-- AI & Data Science -->
 <details open>
 <summary><b>AI &amp; Data Science</b></summary>
@@ -121,6 +126,8 @@ VICKY
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" title="Scikit-learn" alt="Scikit-learn" width="80" height="80"/>&nbsp;
 </p>
 </details>
+
+
 <!-- Tools & Utilities -->
 <details open>
 <summary><b>Tools &amp; Utilities</b></summary>
@@ -131,7 +138,19 @@ VICKY
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"title="VS Code" alt="VS Code" width="80" height="80"/>&nbsp;
 </p>
 </details>
+
+
+
  
+## 🧩 LeetCode info
+
+<p align="center">
+  <img
+    src="https://leetcode-badge-showcase.vercel.app/api?username=MOTTIMIVIKAS&animated=true&filter=annual&theme=dark&width=1400"
+    alt="LeetCode Badges"
+  />
+</p>
+
 
 
 
@@ -168,6 +187,11 @@ VICKY
   <img src="https://komarev.com/ghpvc/?username=MOTTIMIVIKASCHOWDARY&label=PROFILE%20VIEWS&color=ff5733&style=flat-square"
        alt="Profile views counter" />
 </p>
+
+  
+
+
+
 
 
 
