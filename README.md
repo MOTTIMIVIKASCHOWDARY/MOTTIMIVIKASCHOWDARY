@@ -44,7 +44,7 @@ VICKY
 ---
 
 ## 🧠 About Me
-👨‍🎓 I'm a B.Tech student passionate about Artificial Intelligence 🤖 Data Science 📊 Trading 📈 and Cyber Security 🔒. I love using cutting edge tech 💻 to solve real world problems 🌍 through hands on projects 🛠️. Curious by nature 🔍 and committed to continuous learning 📚 I keep building new skills⚡ and creating innovative solutions 💡 while collaborating on impactful, future focused tech projects 🚀 ⚜️..........
+ 👨‍🎓 I'm a B.Tech student passionate about Artificial Intelligence 🤖 Data Science 📊 Trading 📈 and Cyber Security 🔒. I love using cutting edge tech 💻 to solve real world problems 🌍 through hands on projects 🛠️. Curious by nature 🔍 and committed to continuous learning 📚 I keep building new skills⚡ and creating innovative solutions 💡 while collaborating on impactful, future focused tech projects 🚀 ⚜️..........
 - 🤖 Currently exploring AI/data science, deep learning and intelligent systems  
 - ☁️ Learning cloud computing and architecture for scalable applications  
 - 📊 Practicing data analysis, visualization and model building on real datasets  
