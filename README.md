@@ -146,16 +146,37 @@ I love using cutting edge tech 💻 to solve real world problems 🌍 through ha
   </a>
 </p>
 
-## 🔤 Most Used Languages
+ ## 🔤 Most Used Languages
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/MOTTIMIVIKASCHOWDARY">
     <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=MOTTIMIVIKASCHOWDARY&layout=compact&theme=tokyonight&hide_border=false&border_radius=10&card_width=450"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=MOTTIMIVIKASCHOWDARY&langs_count=8&theme=tokyonight&layout=normal&hide_border=false&border_radius=12"
       alt="Most Used Languages"
     />
   </a>
 </p>
+ 
+ <div class="lang-card">
+  <h3>Most Used Languages</h3>
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MOTTIMIVIKASCHOWDARY&layout=compact&theme=github_dark&hide_border=true"
+    alt="Most Used Languages"
+  />
+
+  <p class="note">
+    Note: Top languages don't indicate my skill level, it's a GitHub metric
+    showing languages I have the most code in on GitHub.
+  </p>
+</div>
+
+
+
+
+
+
+
 
    
  
