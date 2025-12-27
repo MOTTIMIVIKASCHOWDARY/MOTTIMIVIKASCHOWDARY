@@ -44,97 +44,93 @@ VICKY
 ---
 
 ## 🧠 About Me
-👨‍🎓 I'm a B.Tech student passionate about Artificial Intelligence 🤖 Data Science 📊 Trading 📈 and Cyber Security 🔒. I love using cutting edge tech 💻 to solve real world problems 🌍 through hands on projects 🛠️. Curious by nature 🔍 and committed to continuous learning 📚 I keep building new skills⚡ and creating innovative solutions 💡 while collaborating on impactful, future focused tech projects 🚀 ⚜️..........
-- 🤖 Currently exploring AI/data science, deep learning and intelligent systems  
-- ☁️ Learning cloud computing and architecture for scalable applications  
-- 📊 Practicing data analysis, visualization and model building on real datasets  
-- 🧠 Sharpening problem‑solving through DSA, LeetCode and coding contests  
-- 🛡️ Building awareness of cyber security, secure coding and digital safety  
-- 🤝 Open to collaborating on innovative, tech‑driven projects and hackathons  
+👨‍🎓 I'm a B.Tech student passionate about Artificial Intelligence 🤖 Data Science 📊 Trading 📈 and Cyber Security 🔒. I love using cutting edge tech 💻 to solve real world problems 🌍 through hands on projects 🛠️. Curious by nature 🔍 and committed to be continuous learning 📚 I keep building new skills⚡ and creating innovative solutions 💡 while collaborating on impactful, future focused tech projects 🚀 ⚜️..........
 
+ - 🤖 Currently exploring AI/data science, deep learning and intelligent systems 
+- ☁️ Learning cloud computing and architecture for scalable applications 
+- 📊 Practicing data analysis, visualization and model building on real datasets 
+- 🧠 Sharpening problem solving through DSA, LeetCode and coding contests 
+- 🛡️ Building awareness of cyber security, secure coding and digital safety 
+- 🤝 Open to collaborating on innovative, tech driven projects and hackathons
+- 
 ---
 
-## 🛠️ Technology Arsenal
+ ## 🛠️ Technology Arsenal
 <!-- Core Technologies -->
 <details open>
 <summary><b>Core Languages</b></summary>
 <br>
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" title="R" alt="R" width="50" height="50"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="80" height="80"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" title="R" alt="R" width="80" height="80"/>&nbsp;
 </p>
 </details>
-
 <details open>
 <summary><b>Databases & Storage</b></summary>
 <br>
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" title="Oracle SQL" alt="Oracle SQL" width="60" height="60"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="60" height="60"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="60" height="60"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" title="Oracle SQL" alt="Oracle SQL" width="80" height="80"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="80" height="80"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="80" height="80"/>&nbsp;
 </p>
 </details>
-
 <!-- Cloud & DevOps -->
 <details open>
 <summary><b>Cloud & DevOps</b></summary>
 <br>
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="60" height="60"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="60" height="60"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" title="Kubernetes" alt="Kubernetes" width="60" height="60"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" title="Vercel" alt="Vercel" width="60" height="60"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" title="Firebase" alt="Firebase" width="60" height="60"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="80" height="80"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="80" height="80"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" title="Kubernetes" alt="Kubernetes" width="80" height="80"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" title="Vercel" alt="Vercel" width="80" height="80"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" title="Firebase" alt="Firebase" width="80" height="80"/>&nbsp;
 </p>
 </details>
-
 <!-- Frontend & Design -->
 <details open>
 <summary><b>Frontend & Design</b></summary>
 <br>
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML5" width="60" height="60"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title="CSS3" alt="CSS3" width="60" height="60"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React Native" alt="React Native" width="60" height="60"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML5" width="80" height="80"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title="CSS3" alt="CSS3" width="80" height="80"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React Native" alt="React Native" width="80" height="80"/>&nbsp;
 </p>
 </details>
-
 <!-- Languages & OS -->
 <details open>
 <summary> OS</b></summary>
 <br>
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="60" height="60"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" title="Windows" alt="Windows" width="60" height="60"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" title="macOS" alt="macOS" width="60" height="60"/>&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" title="Kali Linux" alt="Kali Linux" width="60" height="60"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="80" height="80"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" title="Windows" alt="Windows" width="80" height="80"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" title="macOS" alt="macOS" width="80" height="80"/>&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" title="Kali Linux" alt="Kali Linux" width="80" height="80"/>&nbsp;
 </p>
 </details>
-
 <!-- AI & Data Science -->
 <details open>
 <summary><b>AI &amp; Data Science</b></summary>
 <br>
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" title="NumPy" alt="NumPy" width="60" height="60"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="60" height="60"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" title="Matplotlib" alt="Matplotlib" width="60" height="60"/>&nbsp;
-<img src="https://logo.svgcdn.com/logos/seaborn.svg" title="Seaborn" alt="Seaborn" width="60" height="60"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" title="OpenCV" alt="OpenCV" width="60" height="60"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" alt="TensorFlow" width="60" height="60"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" title="Scikit-learn" alt="Scikit-learn" width="60" height="60"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" title="NumPy" alt="NumPy" width="80" height="80"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="80" height="80"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" title="Matplotlib" alt="Matplotlib" width="80" height="80"/>&nbsp;
+<img src="https://logo.svgcdn.com/logos/seaborn.svg" title="Seaborn" alt="Seaborn" width="80" height="80"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" title="OpenCV" alt="OpenCV" width="80" height="80"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" alt="TensorFlow" width="80" height="80"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" title="Scikit-learn" alt="Scikit-learn" width="80" height="80"/>&nbsp;
 </p>
 </details>
-
 <!-- Tools & Utilities -->
 <details open>
 <summary><b>Tools &amp; Utilities</b></summary>
 <br>
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="60" height="60"/>&nbsp;
-<img src="https://www.svgrepo.com/show/475654/github-color.svg" title="GitHub" alt="GitHub" width="60" height="60"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="80" height="80"/>&nbsp;
+<img src="https://www.svgrepo.com/show/475654/github-color.svg" title="GitHub" alt="GitHub" width="80" height="80"/>&nbsp;
 </p>
 </details>
+
 
 
  ## 📈 Contribution & Activity
