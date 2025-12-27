@@ -1,4 +1,4 @@
- <h1 align="center">Hey there 👋, I'm Vikas Chowdary </h1>
+ <h1 align="center">Hey there 👋, I'm Vikas Chowdary.M </h1>
 
 <p align="center">
 <img
@@ -44,9 +44,7 @@ VICKY
 ---
 
 ## 🧠 About Me
-
-👨‍🎓 I'm a B.Tech student passionate in Artificial Intelligence 🤖 Data Science 📊 Trading 📈 and Cyber Security 🔒.  
-I love using cutting edge tech 💻 to solve real world problems 🌍 through hands on projects 🛠️ and continuous learning 📚.  
+👨‍🎓 I'm a B.Tech student passionate about Artificial Intelligence 🤖 Data Science 📊 Trading 📈 and Cyber Security 🔒. I love using cutting edge tech 💻 to solve real world problems 🌍 through hands on projects 🛠️. Curious by nature 🔍 and committed to continuous learning 📚 I keep building new skills⚡ and creating innovative solutions 💡 while collaborating on impactful, future focused tech projects 🚀 ⚜️..........
 - 🤖 Currently exploring AI/data science, deep learning and intelligent systems  
 - ☁️ Learning cloud computing and architecture for scalable applications  
 - 📊 Practicing data analysis, visualization and model building on real datasets  
@@ -146,16 +144,17 @@ I love using cutting edge tech 💻 to solve real world problems 🌍 through ha
   </a>
 </p>
 
- ## 🔤 Most Used Languages
+ ## 🔥 Most Used Language
 
 <p align="center">
-  <a href="https://github.com/MOTTIMIVIKASCHOWDARY">
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=MOTTIMIVIKASCHOWDARY"
-      alt="Most Used Languages"
-    />
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+       title="Python" alt="Python" width="60" height="60"/>
 </p>
+
+<p align="center">
+  
+</p>
+
 
 
 
