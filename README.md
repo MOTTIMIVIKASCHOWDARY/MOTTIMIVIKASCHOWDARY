@@ -129,7 +129,6 @@ VICKY
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="80" height="80"/>&nbsp;
 <img src="https://www.svgrepo.com/show/475654/github-color.svg" title="GitHub" alt="GitHub" width="80" height="80"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"title="VS Code" alt="VS Code" width="80" height="80"/>&nbsp;
-<img src="PATH/TO/YOUR/cursor-ai-image.png"title="Cursor AI" alt="Cursor AI" width="80" height="80"/>
 </p>
 </details>
  
