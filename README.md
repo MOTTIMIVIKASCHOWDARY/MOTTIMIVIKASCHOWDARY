@@ -112,6 +112,8 @@ VICKY
 </p>
 </details>
 
+
+
 <!-- AI & Data Science -->
 <details open>
 <summary><b>AI &amp; Data Science</b></summary>
@@ -128,6 +130,7 @@ VICKY
 </details>
 
 
+
 <!-- Tools & Utilities -->
 <details open>
 <summary><b>Tools &amp; Utilities</b></summary>
@@ -138,6 +141,7 @@ VICKY
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"title="VS Code" alt="VS Code" width="80" height="80"/>&nbsp;
 </p>
 </details>
+
 
 
 
