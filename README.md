@@ -155,6 +155,21 @@ VICKY
   
 </p>
 
+## 🌐 Connect & Support
+
+<p align="center">
+  <!-- Buy Me a Coffee -->
+  <a href="https://www.buymeacoffee.com/YOUR_BMC_USERNAME" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"
+         alt="Buy Me A Coffee" height="50">
+  </a>
+</p>
+
+<p align="center">
+  <!-- Profile Views -->
+  <img src="https://komarev.com/ghpvc/?username=MOTTIMIVIKASCHOWDARY&label=PROFILE%20VIEWS&color=ff5733&style=flat-square"
+       alt="Profile views counter" />
+</p>
 
 
 
